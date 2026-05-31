@@ -1,129 +1,170 @@
-<h1 align="center">Hi 👋, I'm Hitendra Patil</h1>
+<h1 align="center">
+  Hi 👋, I'm Hitendra Marathe
+</h1>
 
 <h3 align="center">
-Backend Developer | Python Django Developer | PostgreSQL | REST APIs
+Backend Developer | Python Django Developer | REST API Developer
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, APIs, and business solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Django+Developer;Backend+Developer;PostgreSQL+Database+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 💻 Backend Developer with experience in Python, Django, PHP, CodeIgniter, and Laravel
-- 🌱 Currently learning Advanced Django & REST APIs
-- 📊 Interested in Web Development, System Design, and Database Optimization
-- 🔍 Focused on writing clean, maintainable, and scalable code
-- 📍 Pune, India
+![](https://komarev.com/ghpvc/?username=Hitendra15&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 💻 Backend Developer with experience in Django, Python, PHP, Laravel & CodeIgniter
+- 🏢 Working on enterprise business applications and CRM solutions
+- 🌱 Currently learning Advanced Django & REST APIs
+- ⚡ Passionate about clean architecture and scalable systems
+- 📊 Interested in System Design & Database Optimization
+- 📍 Pune, India
+- 🎯 Goal: Become a Senior Backend Engineer
+
+<br><br>
+
+---
+
+# 🛠 Tech Stack
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,php,laravel" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery" />
+</p>
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🥗 MacroTrack
-Full-stack nutrition tracking application built using Django, PostgreSQL, AJAX, jQuery, and Chart.js.
-
-✅ Meal Tracking  
-✅ Macro Goals  
-✅ Weekly Analytics  
-✅ Real-Time Dashboard
-
-🔗 Repository:
-https://github.com/Hitendra15/macro-tracker
-
----
+# 💼 Featured Projects
 
 ### 🏢 Vendor Management System (VMS)
 
-Enterprise Vendor Management System developed using Django and PostgreSQL.
+Enterprise Vendor Management Solution built using Django and PostgreSQL.
 
-✅ Vendor Registration  
-✅ Vendor Approval Workflow  
-✅ Vendor Performance Tracking  
-✅ Document Management  
-✅ Dashboard & Reports
+✨ Features
+
+- Vendor Registration & Approval Workflow
+- Document Management
+- Performance Tracking
+- Dashboard Analytics
+- Role Based Access Control
+- Reporting & Monitoring
 
 ---
 
 ### 🚗 Automotive CRM Solutions
 
-Worked on dealership management and CRM systems including:
+Developed dealership management and CRM modules including:
 
 - Lead Management
-- Vehicle Booking
-- Customer Tracking
-- Reporting Dashboards
-- Zoho CRM Integrations
+- Customer Follow-ups
+- Vehicle Booking System
+- Dashboard Reporting
+- Zoho CRM Integration
+- Sales Analytics
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Web Applications
 
-![](https://github-readme-stats.vercel.app/api?username=Hitendra15&show_icons=true&theme=tokyonight)
+Built multiple production-ready web applications using:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hitendra15&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitendra15&layout=compact&theme=tokyonight)
+- Django
+- Laravel
+- CodeIgniter
+- PostgreSQL
+- MySQL
+- AJAX & jQuery
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Analytics
 
-<p align="left">
-<a href="mailto:hitendramarathe45@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/hitendra-marathe-98599722b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Hitendra15" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hitendra15&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hitendra15&theme=tokyonight&hide_border=true"/>
 </p>
 
-📧 Email: **hitendramarathe45@gmail.com**
-
-💼 LinkedIn: **linkedin.com/in/hitendra-marathe-98599722b**
-
-🐙 GitHub: **github.com/Hitendra15**
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitendra15&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 💡 Favorite Quote
+# 🏆 GitHub Trophies
 
-> First, solve the problem. Then, write the code.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hitendra15&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitendra15&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:hitendramarathe45@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hitendra-marathe-98599722b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hitendra15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Mindset
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
+
+> "First, solve the problem. Then, write the code."
+
+⭐ Thanks for visiting my profile!
