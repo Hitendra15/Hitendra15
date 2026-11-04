@@ -181,24 +181,24 @@ Software Engineer<br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hitendra15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitendra15&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitendra15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitendra15&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hitendra15&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Hitendra15&theme=default&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details and contributions" width="49%" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitendra15&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
+  </picture>
 </div>
 
 ---
