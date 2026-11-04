@@ -129,11 +129,11 @@ K.K. Wagh College of Engineering and Education Research · 2021 – 2023
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about backend development, Django projects and new opportunities.
+I'm always happy to talk about backend development, Django projects, and new opportunities.
 
 <p>
   <a href="https://www.linkedin.com/in/hitendra-marathe-98599722b/"><img src="https://img.shields.io/badge/LinkedIn-Hitendra%20Marathe-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hitendramarathe45@gmail.com"><img src="https://img.shields.io/badge/Email-your--email%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
