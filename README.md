@@ -67,10 +67,10 @@ Backend Developer<br/>
 </td>
 <td valign="top">
 
-- Building and maintaining a Django-based **Vendor Management System** for enterprise use
-- Developing business modules for **vendor payments, fuel, assets and finance**
-- Using **PostgreSQL** and **Celery** for data handling and background processing
-- Contributing to backend architecture, application workflows and code quality
+- Developing and maintaining a Django-based Vendor Management System for enterprise business operations.
+- Implementing backend modules for vendor payments, fuel management, asset management, and finance workflows.
+- Working with PostgreSQL for data management and Celery for asynchronous background task processing.
+- Improving backend functionality, business logic, application workflows, and overall code maintainability.
 <!-- TIP: add measurable impact, e.g. "Reduced report generation time by X% using Celery" -->
 
 </td>
@@ -83,9 +83,9 @@ Software Engineer<br/>
 </td>
 <td valign="top">
 
-- Developed web applications using **PHP, CodeIgniter 3 and Laravel**
-- Built business application modules and database-driven functionality
-- Contributed to application development, maintenance and bug fixing
+- Developed and maintained web applications using PHP, CodeIgniter 3, and Laravel.
+- Implemented business modules, database operations, and application workflows.
+- Worked on feature development, debugging, maintenance, and performance improvements.
 
 </td>
 </tr>
