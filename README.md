@@ -63,7 +63,7 @@ Backend Developer with 3+ years of experience building web applications and back
 <td width="24%" valign="top">
 <b>Chat360</b><br/>
 Backend Developer<br/>
-<sub>*May 2024 – Present*</sub>
+<sub>May 2024 – Present</sub>
 </td>
 <td valign="top">
 
@@ -79,7 +79,7 @@ Backend Developer<br/>
 <td width="24%" valign="top">
 <b>Narola Infotech Solution LLP</b><br/>
 Software Engineer<br/>
-<sub>Feb 2023 – May 2024</sub>
+<sub>February 2023 – May 2024</sub>
 </td>
 <td valign="top">
 
