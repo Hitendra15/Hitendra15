@@ -46,31 +46,13 @@ Backend Developer with 3+ years of experience building web applications and back
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="22%"><b>Backend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,codeigniter" alt="Backend" />
-  <br/>
-  <img src="https://img.shields.io/badge/DRF-REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
-  <img src="https://img.shields.io/badge/Celery-Task%20Queue-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Django-Channels-092E20?style=flat-square&logo=django&logoColor=white" alt="Channels" />
-  <img src="https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" /></td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,react" alt="Frontend" /></td>
-</tr>
-<tr>
-<td><b>Tools &amp; Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,aws" alt="Tools" /></td>
-</tr>
-</table>
+| Category | Technologies |
+|---|---|
+| Backend | Python, Django, DRF, PHP, Laravel, CodeIgniter |
+| Databases | PostgreSQL, MySQL |
+| Frontend | JavaScript, React, jQuery, HTML, CSS, Bootstrap |
+| Async & Real-time | Celery, Django Channels, WebSockets |
+| Tools & Cloud | Git, GitHub, Docker, Linux, AWS, Postman |
 
 ---
 
@@ -81,7 +63,7 @@ Backend Developer with 3+ years of experience building web applications and back
 <td width="24%" valign="top">
 <b>Chat360</b><br/>
 Backend Developer<br/>
-<sub>May 2024 – Present</sub>
+<sub>*May 2024 – Present*</sub>
 </td>
 <td valign="top">
 
