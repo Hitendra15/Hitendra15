@@ -30,7 +30,7 @@
 <tr>
 <td width="62%" valign="top">
 
-Backend Developer with 3+ years of experience building web applications and backend systems using Python, Django, PHP and Laravel. I enjoy designing database-driven applications, building clean REST APIs, implementing secure authentication and writing maintainable software. Currently working at Chat360 on Django-based enterprise applications.
+Backend Developer with 4 years of experience building web applications and backend systems using Python, Django, PHP and Laravel. I enjoy designing database-driven applications, building clean REST APIs, implementing secure authentication and writing maintainable software. Currently working at Chat360 on Django-based enterprise applications.
 
 - 🔭 Building: Vendor Management System
 - 🌱 Learning: Django Channels, WebSockets, System Design
