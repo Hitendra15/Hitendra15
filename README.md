@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2c5364?style=for-the-badge" alt="Experience" />
+    <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2c5364?style=for-the-badge" alt="Experience" />
     <img src="https://img.shields.io/badge/Location-Pune%2C%20India-203a43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities" />
   </p>
